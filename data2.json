@@ -1,0 +1,4942 @@
+{
+  "DARWIN-RAW/P01/T6.txt": [
+    {
+      "l": [
+        378,
+        458
+      ],
+      "m": [
+        867,
+        1015
+      ],
+      "p": [
+        1264,
+        1355
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P01/T7.txt": [
+    {
+      "n": [
+        322,
+        429
+      ],
+      "l": [
+        518,
+        584
+      ],
+      "o": [
+        684,
+        739
+      ],
+      "g": [
+        954,
+        1049
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P01/T8.txt": [
+    {
+      "llll": [
+        235,
+        1112
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H01/T16.txt": [
+    {
+      "casa-reverse": [
+        221,
+        526
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H01/T18.txt": [
+    {
+      "sedia": [
+        146,
+        481
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P03/T6.txt": [
+    {
+      "l": [
+        102,
+        212
+      ],
+      "m": [
+        431,
+        638
+      ],
+      "p": [
+        836,
+        974
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H03/T8.txt": [
+    {
+      "llll": [
+        262,
+        944
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P03/T8.txt": [
+    {
+      "llll": [
+        205,
+        1015
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P03/T9.txt": [
+    {
+      "lelelele": [
+        117,
+        1385
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P03/T12.txt": [
+    {
+      "mamma": [
+        196,
+        1229
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P03/T13.txt": [
+    {
+      "mamma": [
+        261,
+        1242
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H04/T8.txt": [
+    {
+      "llll": [
+        220,
+        1771
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P05/T7.txt": [
+    {
+      "n": [
+        113,
+        279
+      ],
+      "l": [
+        365,
+        442
+      ],
+      "o": [
+        519,
+        614
+      ],
+      "g": [
+        698,
+        838
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H05/T8.txt": [
+    {
+      "llll": [
+        42,
+        476
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P05/T8.txt": [
+    {
+      "llll": [
+        866,
+        1562
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P06/T7.txt": [
+    {
+      "n": [
+        131,
+        368
+      ],
+      "l": [
+        491,
+        783
+      ],
+      "o": [
+        907,
+        1103
+      ],
+      "g": [
+        1282,
+        1556
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H06/T8.txt": [
+    {
+      "llll": [
+        616,
+        1001
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P06/T8.txt": [
+    {
+      "llll": [
+        128,
+        1117
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H06/T9.txt": [
+    {
+      "lelelele": [
+        23,
+        1096
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P06/T9.txt": [
+    {
+      "lelelele": [
+        91,
+        1328
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H07/T6.txt": [
+    {
+      "l": [
+        70,
+        165
+      ],
+      "m": [
+        240,
+        394
+      ],
+      "p": [
+        468,
+        587
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H07/T9.txt": [
+    {
+      "lelelele": [
+        113,
+        1128
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H08/T6.txt": [
+    {
+      "l": [
+        93,
+        183
+      ],
+      "m": [
+        237,
+        362
+      ],
+      "p": [
+        456,
+        592
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H08/T7.txt": [
+    {
+      "n": [
+        47,
+        159
+      ],
+      "l": [
+        223,
+        296
+      ],
+      "o": [
+        343,
+        399
+      ],
+      "g": [
+        473,
+        575
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P08/T8.txt": [
+    {
+      "llll": [
+        75,
+        470
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H08/T9.txt": [
+    {
+      "lelelele": [
+        36,
+        659
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P08/T9.txt": [
+    {
+      "lelelele": [
+        65,
+        737
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H08/T12.txt": [
+    {
+      "mamma": [
+        16,
+        543
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H08/T13.txt": [
+    {
+      "mamma": [
+        49,
+        679
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H08/T16.txt": [
+    {
+      "casa-reverse": [
+        32,
+        316
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H08/T18.txt": [
+    {
+      "sedia": [
+        40,
+        285
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H09/T6.txt": [
+    {
+      "l": [
+        60,
+        164
+      ],
+      "m": [
+        266,
+        435
+      ],
+      "p": [
+        509,
+        638
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P09/T7.txt": [
+    {
+      "n": [
+        209,
+        762
+      ],
+      "l": [
+        972,
+        1110
+      ],
+      "o": [
+        1327,
+        1483
+      ],
+      "g": [
+        1767,
+        1987
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H09/T8.txt": [
+    {
+      "llll": [
+        39,
+        394
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P09/T8.txt": [
+    {
+      "llll": [
+        365,
+        2088
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H09/T9.txt": [
+    {
+      "lelelele": [
+        53,
+        738
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H09/T13.txt": [
+    {
+      "mamma": [
+        56,
+        810
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P10/T6.txt": [
+    {
+      "l": [
+        1500,
+        1748
+      ],
+      "m": [
+        2038,
+        2305
+      ],
+      "p": [
+        2495,
+        2688
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P10/T7.txt": [
+    {
+      "n": [
+        411,
+        615
+      ],
+      "l": [
+        1215,
+        1449
+      ],
+      "o": [
+        1824,
+        1947
+      ],
+      "g": [
+        2354,
+        2655
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H10/T8.txt": [
+    {
+      "llll": [
+        191,
+        603
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H10/T9.txt": [
+    {
+      "lelelele": [
+        88,
+        719
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P10/T9.txt": [
+    {
+      "lelelele": [
+        224,
+        1868
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H10/T13.txt": [
+    {
+      "mamma": [
+        70,
+        563
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H11/T7.txt": [
+    {
+      "n": [
+        31,
+        92
+      ],
+      "l": [
+        203,
+        248
+      ],
+      "o": [
+        438,
+        476
+      ],
+      "g": [
+        621,
+        677
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H11/T8.txt": [
+    {
+      "llll": [
+        95,
+        2
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H11/T9.txt": [
+    {
+      "lelelele": [
+        70,
+        559
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H11/T11.txt": [
+    {
+      "foglio": [
+        240,
+        503
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H11/T12.txt": [
+    {
+      "mamma": [
+        14,
+        253
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H11/T13.txt": [
+    {
+      "mamma": [
+        22,
+        227
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P11/T16.txt": [
+    {
+      "casa-reverse": [
+        767,
+        1636
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H11/T18.txt": [
+    {
+      "sedia": [
+        66,
+        248
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H12/T6.txt": [
+    {
+      "l": [
+        129,
+        222
+      ],
+      "m": [
+        321,
+        434
+      ],
+      "p": [
+        604,
+        687
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H12/T7.txt": [
+    {
+      "n": [
+        62,
+        147
+      ],
+      "l": [
+        229,
+        287
+      ],
+      "o": [
+        381,
+        428
+      ],
+      "g": [
+        580,
+        689
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H12/T8.txt": [
+    {
+      "llll": [
+        149,
+        640
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H12/T9.txt": [
+    {
+      "lelelele": [
+        50,
+        861
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H12/T12.txt": [
+    {
+      "mamma": [
+        41,
+        545
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H12/T13.txt": [
+    {
+      "mamma": [
+        63,
+        579
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P13/T6.txt": [
+    {
+      "l": [
+        89,
+        246
+      ],
+      "m": [
+        472,
+        764
+      ],
+      "p": [
+        854,
+        984
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H13/T7.txt": [
+    {
+      "n": [
+        297,
+        473
+      ],
+      "l": [
+        575,
+        670
+      ],
+      "o": [
+        736,
+        805
+      ],
+      "g": [
+        880,
+        1031
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H13/T8.txt": [
+    {
+      "llll": [
+        172,
+        622
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P13/T8.txt": [
+    {
+      "llll": [
+        232,
+        1373
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H13/T9.txt": [
+    {
+      "lelelele": [
+        160,
+        986
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P13/T9.txt": [
+    {
+      "lelelele": [
+        142,
+        1641
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H13/T16.txt": [
+    {
+      "casa-reverse": [
+        105,
+        850
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H14/T6.txt": [
+    {
+      "l": [
+        136,
+        262
+      ],
+      "m": [
+        339,
+        520
+      ],
+      "p": [
+        647,
+        869
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H14/T8.txt": [
+    {
+      "llll": [
+        322,
+        638
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P14/T8.txt": [
+    {
+      "llll": [
+        225,
+        1330
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H14/T9.txt": [
+    {
+      "lelelele": [
+        196,
+        777
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P14/T9.txt": [
+    {
+      "lelelele": [
+        228,
+        2102
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H14/T12.txt": [
+    {
+      "mamma": [
+        62,
+        810
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H16/T6.txt": [
+    {
+      "l": [
+        29,
+        136
+      ],
+      "m": [
+        191,
+        358
+      ],
+      "p": [
+        488,
+        670
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H16/T7.txt": [
+    {
+      "n": [
+        22,
+        136
+      ],
+      "l": [
+        181,
+        281
+      ],
+      "o": [
+        352,
+        431
+      ],
+      "g": [
+        498,
+        688
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H16/T8.txt": [
+    {
+      "llll": [
+        17,
+        663
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H16/T9.txt": [
+    {
+      "lelelele": [
+        58,
+        1130
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H17/T6.txt": [
+    {
+      "l": [
+        198,
+        389
+      ],
+      "m": [
+        517,
+        713
+      ],
+      "p": [
+        922,
+        1102
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P17/T6.txt": [
+    {
+      "l": [
+        126,
+        219
+      ],
+      "m": [
+        315,
+        424
+      ],
+      "p": [
+        479,
+        588
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P17/T7.txt": [
+    {
+      "n": [
+        88,
+        207
+      ],
+      "l": [
+        350,
+        429
+      ],
+      "o": [
+        540,
+        616
+      ],
+      "g": [
+        714,
+        849
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H17/T8.txt": [
+    {
+      "llll": [
+        112,
+        984
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H17/T9.txt": [
+    {
+      "lelelele": [
+        284,
+        1882
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H18/T7.txt": [
+    {
+      "n": [
+        145,
+        434
+      ],
+      "l": [
+        1256,
+        1375
+      ],
+      "o": [
+        1473,
+        1580
+      ],
+      "g": [
+        1710,
+        1888
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H18/T8.txt": [
+    {
+      "llll": [
+        128,
+        1223
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H18/T9.txt": [
+    {
+      "lelelele": [
+        129,
+        1709
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H19/T8.txt": [
+    {
+      "llll": [
+        113,
+        599
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H20/T6.txt": [
+    {
+      "l": [
+        57,
+        171
+      ],
+      "m": [
+        230,
+        386
+      ],
+      "p": [
+        536,
+        633
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H20/T7.txt": [
+    {
+      "n": [
+        109,
+        276
+      ],
+      "l": [
+        374,
+        461
+      ],
+      "o": [
+        532,
+        627
+      ],
+      "g": [
+        725,
+        850
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H20/T8.txt": [
+    {
+      "llll": [
+        93,
+        642
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H20/T9.txt": [
+    {
+      "lelelele": [
+        156,
+        1160
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P21/T6.txt": [
+    {
+      "l": [
+        671,
+        902
+      ],
+      "m": [
+        1116,
+        1391
+      ],
+      "p": [
+        1604,
+        1757
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P21/T7.txt": [
+    {
+      "n": [
+        120,
+        345
+      ],
+      "l": [
+        2170,
+        2375
+      ],
+      "o": [
+        2543,
+        2699
+      ],
+      "g": [
+        3203,
+        3407
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P21/T8.txt": [
+    {
+      "llll": [
+        242,
+        902
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H22/T6.txt": [
+    {
+      "l": [
+        197,
+        387
+      ],
+      "m": [
+        585,
+        824
+      ],
+      "p": [
+        981,
+        1155
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H22/T8.txt": [
+    {
+      "llll": [
+        81,
+        1250
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H22/T9.txt": [
+    {
+      "lelelele": [
+        85,
+        1657
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P22/T12.txt": [
+    {
+      "mamma": [
+        291,
+        2389
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H23/T6.txt": [
+    {
+      "l": [
+        88,
+        192
+      ],
+      "m": [
+        262,
+        402
+      ],
+      "p": [
+        483,
+        631
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H23/T8.txt": [
+    {
+      "llll": [
+        328,
+        685
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H23/T9.txt": [
+    {
+      "lelelele": [
+        116,
+        799
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P23/T9.txt": [
+    {
+      "lelelele": [
+        2,
+        2354
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H23/T13.txt": [
+    {
+      "mamma": [
+        87,
+        666
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H23/T16.txt": [
+    {
+      "casa-reverse": [
+        123,
+        862
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H24/T6.txt": [
+    {
+      "l": [
+        148,
+        213
+      ],
+      "m": [
+        318,
+        422
+      ],
+      "p": [
+        489,
+        551
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H24/T7.txt": [
+    {
+      "n": [
+        102,
+        206
+      ],
+      "l": [
+        328,
+        384
+      ],
+      "o": [
+        502,
+        548
+      ],
+      "g": [
+        647,
+        739
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P24/T9.txt": [
+    {
+      "lelelele": [
+        132,
+        3136
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H25/T6.txt": [
+    {
+      "l": [
+        504,
+        670
+      ],
+      "m": [
+        730,
+        954
+      ],
+      "p": [
+        1059,
+        1159
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P25/T6.txt": [
+    {
+      "l": [
+        1919,
+        2068
+      ],
+      "m": [
+        2386,
+        2608
+      ],
+      "p": [
+        2695,
+        2809
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H25/T7.txt": [
+    {
+      "n": [
+        162,
+        418
+      ],
+      "l": [
+        631,
+        738
+      ],
+      "o": [
+        862,
+        952
+      ],
+      "g": [
+        1173,
+        1322
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H25/T8.txt": [
+    {
+      "llll": [
+        397,
+        990
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H25/T9.txt": [
+    {
+      "lelelele": [
+        111,
+        1048
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H25/T10.txt": [
+    {
+      "foglio": [
+        190,
+        700
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H25/T11.txt": [
+    {
+      "foglio": [
+        129,
+        704
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H25/T12.txt": [
+    {
+      "mamma": [
+        81,
+        824
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H25/T16.txt": [
+    {
+      "casa-reverse": [
+        99,
+        485
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H25/T18.txt": [
+    {
+      "sedia": [
+        78,
+        411
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H26/T6.txt": [
+    {
+      "l": [
+        38,
+        140
+      ],
+      "m": [
+        207,
+        400
+      ],
+      "p": [
+        453,
+        587
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H26/T7.txt": [
+    {
+      "n": [
+        48,
+        172
+      ],
+      "l": [
+        244,
+        336
+      ],
+      "o": [
+        437,
+        496
+      ],
+      "g": [
+        579,
+        742
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H26/T8.txt": [
+    {
+      "llll": [
+        26,
+        588
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H26/T12.txt": [
+    {
+      "mamma": [
+        52,
+        708
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H26/T13.txt": [
+    {
+      "mamma": [
+        43,
+        741
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H26/T16.txt": [
+    {
+      "casa-reverse": [
+        37,
+        379
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H26/T18.txt": [
+    {
+      "sedia": [
+        32,
+        360
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H27/T6.txt": [
+    {
+      "l": [
+        104,
+        192
+      ],
+      "m": [
+        384,
+        548
+      ],
+      "p": [
+        642,
+        728
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H27/T7.txt": [
+    {
+      "n": [
+        105,
+        235
+      ],
+      "l": [
+        402,
+        473
+      ],
+      "o": [
+        631,
+        689
+      ],
+      "g": [
+        831,
+        929
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P27/T7.txt": [
+    {
+      "n": [
+        49,
+        156
+      ],
+      "l": [
+        300,
+        375
+      ],
+      "o": [
+        585,
+        650
+      ],
+      "g": [
+        749,
+        852
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H27/T8.txt": [
+    {
+      "llll": [
+        81,
+        427
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P27/T8.txt": [
+    {
+      "llll": [
+        228,
+        673
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H27/T9.txt": [
+    {
+      "lelelele": [
+        120,
+        764
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H27/T12.txt": [
+    {
+      "mamma": [
+        113,
+        671
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H27/T13.txt": [
+    {
+      "mamma": [
+        99,
+        658
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P28/T6.txt": [
+    {
+      "l": [
+        51,
+        200
+      ],
+      "m": [
+        301,
+        495
+      ],
+      "p": [
+        617,
+        764
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P28/T7.txt": [
+    {
+      "n": [
+        94,
+        190
+      ],
+      "l": [
+        298,
+        392
+      ],
+      "o": [
+        520,
+        647
+      ],
+      "g": [
+        736,
+        899
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H28/T8.txt": [
+    {
+      "llll": [
+        64,
+        392
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P28/T8.txt": [
+    {
+      "llll": [
+        147,
+        837
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P28/T9.txt": [
+    {
+      "lelelele": [
+        69,
+        1211
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H29/T7.txt": [
+    {
+      "n": [
+        144,
+        324
+      ],
+      "l": [
+        449,
+        545
+      ],
+      "o": [
+        705,
+        805
+      ],
+      "g": [
+        927,
+        1048
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H29/T8.txt": [
+    {
+      "llll": [
+        62,
+        421
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H29/T9.txt": [
+    {
+      "lelelele": [
+        43,
+        688
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H29/T12.txt": [
+    {
+      "mamma": [
+        35,
+        437
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H29/T13.txt": [
+    {
+      "mamma": [
+        50,
+        467
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H30/T7.txt": [
+    {
+      "n": [
+        189,
+        294
+      ],
+      "l": [
+        342,
+        420
+      ],
+      "o": [
+        528,
+        599
+      ],
+      "g": [
+        715,
+        862
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H30/T8.txt": [
+    {
+      "llll": [
+        87,
+        369
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P30/T8.txt": [
+    {
+      "llll": [
+        451,
+        2111
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H30/T9.txt": [
+    {
+      "lelelele": [
+        411,
+        995
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H30/T13.txt": [
+    {
+      "mamma": [
+        133,
+        748
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H30/T16.txt": [
+    {
+      "casa-reverse": [
+        368,
+        937
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H31/T6.txt": [
+    {
+      "l": [
+        102,
+        204
+      ],
+      "m": [
+        268,
+        433
+      ],
+      "p": [
+        578,
+        666
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H31/T7.txt": [
+    {
+      "n": [
+        195,
+        389
+      ],
+      "l": [
+        467,
+        545
+      ],
+      "o": [
+        613,
+        667
+      ],
+      "g": [
+        757,
+        875
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H31/T8.txt": [
+    {
+      "llll": [
+        89,
+        531
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P31/T8.txt": [
+    {
+      "llll": [
+        106,
+        1675
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H31/T9.txt": [
+    {
+      "lelelele": [
+        223,
+        889
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P31/T9.txt": [
+    {
+      "lelelele": [
+        110,
+        2441
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H32/T7.txt": [
+    {
+      "n": [
+        1390,
+        1566
+      ],
+      "l": [
+        1728,
+        1823
+      ],
+      "o": [
+        2089,
+        2183
+      ],
+      "g": [
+        2467,
+        2664
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H32/T8.txt": [
+    {
+      "llll": [
+        173,
+        922
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P32/T8.txt": [
+    {
+      "llll": [
+        472,
+        1148
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H32/T9.txt": [
+    {
+      "lelelele": [
+        193,
+        1629
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P33/T7.txt": [
+    {
+      "n": [
+        316,
+        518
+      ],
+      "l": [
+        618,
+        747
+      ],
+      "o": [
+        833,
+        939
+      ],
+      "g": [
+        1067,
+        1214
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H33/T8.txt": [
+    {
+      "llll": [
+        112,
+        594
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P33/T8.txt": [
+    {
+      "llll": [
+        619,
+        1299
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H33/T9.txt": [
+    {
+      "lelelele": [
+        468,
+        1095
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P33/T9.txt": [
+    {
+      "lelelele": [
+        924,
+        2148
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H34/T7.txt": [
+    {
+      "n": [
+        103,
+        205
+      ],
+      "l": [
+        314,
+        411
+      ],
+      "o": [
+        509,
+        573
+      ],
+      "g": [
+        683,
+        809
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P34/T8.txt": [
+    {
+      "llll": [
+        155,
+        1028
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H35/T6.txt": [
+    {
+      "l": [
+        573,
+        709
+      ],
+      "m": [
+        802,
+        1024
+      ],
+      "p": [
+        1256,
+        1471
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P35/T6.txt": [
+    {
+      "l": [
+        786,
+        871
+      ],
+      "m": [
+        1120,
+        1245
+      ],
+      "p": [
+        1487,
+        1571
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H35/T7.txt": [
+    {
+      "n": [
+        194,
+        353
+      ],
+      "l": [
+        436,
+        541
+      ],
+      "o": [
+        639,
+        727
+      ],
+      "g": [
+        845,
+        1019
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H35/T8.txt": [
+    {
+      "llll": [
+        311,
+        1187
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P35/T8.txt": [
+    {
+      "llll": [
+        580,
+        1078
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H35/T9.txt": [
+    {
+      "lelelele": [
+        283,
+        1701
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P35/T9.txt": [
+    {
+      "lelelele": [
+        408,
+        1211
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P36/T6.txt": [
+    {
+      "l": [
+        268,
+        449
+      ],
+      "m": [
+        568,
+        765
+      ],
+      "p": [
+        909,
+        1058
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P36/T7.txt": [
+    {
+      "n": [
+        260,
+        442
+      ],
+      "l": [
+        655,
+        756
+      ],
+      "o": [
+        883,
+        987
+      ],
+      "g": [
+        1169,
+        1370
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H36/T8.txt": [
+    {
+      "llll": [
+        100,
+        429
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P36/T8.txt": [
+    {
+      "llll": [
+        62,
+        881
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H36/T9.txt": [
+    {
+      "lelelele": [
+        346,
+        784
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P36/T9.txt": [
+    {
+      "lelelele": [
+        170,
+        1535
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P36/T12.txt": [
+    {
+      "mamma": [
+        154,
+        814
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P36/T16.txt": [
+    {
+      "casa-reverse": [
+        119,
+        1041
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H37/T6.txt": [
+    {
+      "l": [
+        123,
+        222
+      ],
+      "m": [
+        325,
+        466
+      ],
+      "p": [
+        572,
+        688
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H37/T7.txt": [
+    {
+      "n": [
+        206,
+        333
+      ],
+      "l": [
+        453,
+        534
+      ],
+      "o": [
+        606,
+        674
+      ],
+      "g": [
+        773,
+        884
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H37/T8.txt": [
+    {
+      "llll": [
+        67,
+        487
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H38/T7.txt": [
+    {
+      "n": [
+        165,
+        315
+      ],
+      "l": [
+        562,
+        755
+      ],
+      "o": [
+        877,
+        958
+      ],
+      "g": [
+        1091,
+        1261
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H38/T8.txt": [
+    {
+      "llll": [
+        133,
+        947
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H38/T9.txt": [
+    {
+      "lelelele": [
+        548,
+        1523
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H39/T7.txt": [
+    {
+      "n": [
+        84,
+        191
+      ],
+      "l": [
+        246,
+        309
+      ],
+      "o": [
+        395,
+        436
+      ],
+      "g": [
+        570,
+        660
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P39/T7.txt": [
+    {
+      "n": [
+        296,
+        404
+      ],
+      "l": [
+        754,
+        850
+      ],
+      "o": [
+        1196,
+        1273
+      ],
+      "g": [
+        1530,
+        1680
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P39/T8.txt": [
+    {
+      "llll": [
+        205,
+        688
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H39/T9.txt": [
+    {
+      "lelelele": [
+        60,
+        624
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P39/T9.txt": [
+    {
+      "lelelele": [
+        255,
+        1027
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H39/T12.txt": [
+    {
+      "mamma": [
+        81,
+        627
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P39/T12.txt": [
+    {
+      "mamma": [
+        242,
+        1031
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H40/T6.txt": [
+    {
+      "l": [
+        757,
+        914
+      ],
+      "m": [
+        1137,
+        1386
+      ],
+      "p": [
+        1928,
+        2044
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H40/T7.txt": [
+    {
+      "n": [
+        309,
+        592
+      ],
+      "l": [
+        777,
+        896
+      ],
+      "o": [
+        1040,
+        1145
+      ],
+      "g": [
+        1277,
+        1406
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H40/T8.txt": [
+    {
+      "llll": [
+        308,
+        1108
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P40/T8.txt": [
+    {
+      "llll": [
+        300,
+        1710
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H40/T9.txt": [
+    {
+      "lelelele": [
+        244,
+        1660
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P40/T9.txt": [
+    {
+      "lelelele": [
+        236,
+        1991
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H40/T12.txt": [
+    {
+      "mamma": [
+        254,
+        1668
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H40/T13.txt": [
+    {
+      "mamma": [
+        207,
+        1317
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H41/T6.txt": [
+    {
+      "l": [
+        154,
+        369
+      ],
+      "m": [
+        547,
+        711
+      ],
+      "p": [
+        883,
+        1054
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P41/T9.txt": [
+    {
+      "lelelele": [
+        104,
+        1282
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P41/T16.txt": [
+    {
+      "casa-reverse": [
+        89,
+        583
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P42/T6.txt": [
+    {
+      "l": [
+        150,
+        352
+      ],
+      "m": [
+        504,
+        758
+      ],
+      "p": [
+        853,
+        997
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H42/T7.txt": [
+    {
+      "n": [
+        222,
+        402
+      ],
+      "l": [
+        637,
+        814
+      ],
+      "o": [
+        977,
+        1148
+      ],
+      "g": [
+        1376,
+        1636
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H42/T8.txt": [
+    {
+      "llll": [
+        447,
+        1417
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H42/T9.txt": [
+    {
+      "lelelele": [
+        79,
+        2125
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H42/T12.txt": [
+    {
+      "mamma": [
+        312,
+        1181
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H43/T7.txt": [
+    {
+      "n": [
+        73,
+        199
+      ],
+      "l": [
+        303,
+        373
+      ],
+      "o": [
+        442,
+        522
+      ],
+      "g": [
+        584,
+        690
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P43/T7.txt": [
+    {
+      "n": [
+        566,
+        695
+      ],
+      "l": [
+        808,
+        885
+      ],
+      "o": [
+        1018,
+        1090
+      ],
+      "g": [
+        1218,
+        1325
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H43/T8.txt": [
+    {
+      "llll": [
+        69,
+        387
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P43/T8.txt": [
+    {
+      "llll": [
+        135,
+        1334
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P44/T6.txt": [
+    {
+      "l": [
+        175,
+        234
+      ],
+      "m": [
+        441,
+        577
+      ],
+      "p": [
+        678,
+        766
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P44/T7.txt": [
+    {
+      "n": [
+        136,
+        237
+      ],
+      "l": [
+        338,
+        391
+      ],
+      "o": [
+        585,
+        647
+      ],
+      "g": [
+        761,
+        889
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H44/T8.txt": [
+    {
+      "llll": [
+        254,
+        1099
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P44/T8.txt": [
+    {
+      "llll": [
+        110,
+        659
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H44/T9.txt": [
+    {
+      "lelelele": [
+        233,
+        1474
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P44/T12.txt": [
+    {
+      "mamma": [
+        120,
+        656
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H45/T7.txt": [
+    {
+      "n": [
+        117,
+        292
+      ],
+      "l": [
+        398,
+        516
+      ],
+      "o": [
+        608,
+        696
+      ],
+      "g": [
+        786,
+        956
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H45/T8.txt": [
+    {
+      "llll": [
+        72,
+        583
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P45/T8.txt": [
+    {
+      "llll": [
+        89,
+        646
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H45/T9.txt": [
+    {
+      "lelelele": [
+        93,
+        1101
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P45/T9.txt": [
+    {
+      "lelelele": [
+        352,
+        1390
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H46/T6.txt": [
+    {
+      "l": [
+        66,
+        154
+      ],
+      "m": [
+        212,
+        372
+      ],
+      "p": [
+        494,
+        618
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P46/T6.txt": [
+    {
+      "l": [
+        263,
+        433
+      ],
+      "m": [
+        509,
+        728
+      ],
+      "p": [
+        814,
+        941
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H46/T7.txt": [
+    {
+      "n": [
+        252,
+        361
+      ],
+      "l": [
+        453,
+        525
+      ],
+      "o": [
+        663,
+        735
+      ],
+      "g": [
+        851,
+        977
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P46/T7.txt": [
+    {
+      "n": [
+        73,
+        295
+      ],
+      "l": [
+        538,
+        797
+      ],
+      "o": [
+        957,
+        1160
+      ],
+      "g": [
+        1306,
+        1521
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H46/T8.txt": [
+    {
+      "llll": [
+        101,
+        553
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P46/T8.txt": [
+    {
+      "llll": [
+        32,
+        558
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P46/T9.txt": [
+    {
+      "lelelele": [
+        19,
+        876
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P47/T6.txt": [
+    {
+      "l": [
+        100,
+        215
+      ],
+      "m": [
+        299,
+        508
+      ],
+      "p": [
+        606,
+        692
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P47/T7.txt": [
+    {
+      "n": [
+        477,
+        638
+      ],
+      "l": [
+        764,
+        829
+      ],
+      "o": [
+        918,
+        985
+      ],
+      "g": [
+        1070,
+        1226
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H47/T8.txt": [
+    {
+      "llll": [
+        108,
+        547
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P47/T8.txt": [
+    {
+      "llll": [
+        396,
+        1032
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H47/T9.txt": [
+    {
+      "lelelele": [
+        162,
+        1096
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P47/T9.txt": [
+    {
+      "lelelele": [
+        146,
+        1008
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P47/T11.txt": [
+    {
+      "foglio": [
+        155,
+        1165
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H47/T12.txt": [
+    {
+      "mamma": [
+        102,
+        884
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P47/T12.txt": [
+    {
+      "mamma": [
+        50,
+        757
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H47/T13.txt": [
+    {
+      "mamma": [
+        147,
+        894
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P47/T13.txt": [
+    {
+      "mamma": [
+        82,
+        1005
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H48/T6.txt": [
+    {
+      "l": [
+        458,
+        593
+      ],
+      "m": [
+        704,
+        835
+      ],
+      "p": [
+        901,
+        1002
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H48/T7.txt": [
+    {
+      "n": [
+        59,
+        175
+      ],
+      "l": [
+        318,
+        427
+      ],
+      "o": [
+        492,
+        546
+      ],
+      "g": [
+        604,
+        721
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P49/T6.txt": [
+    {
+      "l": [
+        96,
+        245
+      ],
+      "m": [
+        329,
+        550
+      ],
+      "p": [
+        783,
+        920
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H49/T7.txt": [
+    {
+      "n": [
+        311,
+        412
+      ],
+      "l": [
+        466,
+        547
+      ],
+      "o": [
+        597,
+        659
+      ],
+      "g": [
+        717,
+        808
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H49/T8.txt": [
+    {
+      "llll": [
+        195,
+        525
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P49/T8.txt": [
+    {
+      "llll": [
+        85,
+        880
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P49/T9.txt": [
+    {
+      "lelelele": [
+        82,
+        1291
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P49/T12.txt": [
+    {
+      "mamma": [
+        62,
+        1105
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P49/T13.txt": [
+    {
+      "mamma": [
+        137,
+        1239
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P49/T16.txt": [
+    {
+      "casa-reverse": [
+        540,
+        1091
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H50/T7.txt": [
+    {
+      "n": [
+        177,
+        308
+      ],
+      "l": [
+        621,
+        710
+      ],
+      "o": [
+        833,
+        912
+      ],
+      "g": [
+        1000,
+        1115
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H50/T8.txt": [
+    {
+      "llll": [
+        526,
+        896
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P50/T8.txt": [
+    {
+      "llll": [
+        65,
+        319
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H50/T9.txt": [
+    {
+      "lelelele": [
+        77,
+        656
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P50/T9.txt": [
+    {
+      "lelelele": [
+        53,
+        513
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P50/T12.txt": [
+    {
+      "mamma": [
+        49,
+        619
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P50/T13.txt": [
+    {
+      "mamma": [
+        85,
+        656
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P50/T16.txt": [
+    {
+      "casa-reverse": [
+        38,
+        390
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H51/T8.txt": [
+    {
+      "llll": [
+        87,
+        500
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H51/T9.txt": [
+    {
+      "lelelele": [
+        404,
+        1051
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H52/T8.txt": [
+    {
+      "llll": [
+        55,
+        563
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H53/T7.txt": [
+    {
+      "n": [
+        99,
+        214
+      ],
+      "l": [
+        281,
+        350
+      ],
+      "o": [
+        414,
+        460
+      ],
+      "g": [
+        544,
+        663
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H53/T8.txt": [
+    {
+      "llll": [
+        51,
+        485
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P53/T8.txt": [
+    {
+      "llll": [
+        236,
+        1381
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H53/T9.txt": [
+    {
+      "lelelele": [
+        508,
+        1102
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H54/T7.txt": [
+    {
+      "n": [
+        116,
+        428
+      ],
+      "l": [
+        781,
+        1041
+      ],
+      "o": [
+        1128,
+        1261
+      ],
+      "g": [
+        1381,
+        1599
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H54/T8.txt": [
+    {
+      "llll": [
+        266,
+        904
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H54/T9.txt": [
+    {
+      "lelelele": [
+        329,
+        1495
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P55/T9.txt": [
+    {
+      "lelelele": [
+        1918,
+        4492
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P56/T8.txt": [
+    {
+      "llll": [
+        154,
+        1968
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H56/T9.txt": [
+    {
+      "lelelele": [
+        170,
+        798
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H57/T6.txt": [
+    {
+      "l": [
+        103,
+        236
+      ],
+      "m": [
+        341,
+        517
+      ],
+      "p": [
+        620,
+        759
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H57/T8.txt": [
+    {
+      "llll": [
+        352,
+        872
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H57/T9.txt": [
+    {
+      "lelelele": [
+        72,
+        1030
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P57/T9.txt": [
+    {
+      "lelelele": [
+        225,
+        2147
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H58/T6.txt": [
+    {
+      "l": [
+        525,
+        642
+      ],
+      "m": [
+        769,
+        925
+      ],
+      "p": [
+        1565,
+        1674
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H58/T7.txt": [
+    {
+      "n": [
+        551,
+        718
+      ],
+      "l": [
+        823,
+        890
+      ],
+      "o": [
+        1034,
+        1094
+      ],
+      "g": [
+        1190,
+        1302
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H58/T8.txt": [
+    {
+      "llll": [
+        208,
+        569
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H58/T9.txt": [
+    {
+      "lelelele": [
+        676,
+        1396
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H59/T6.txt": [
+    {
+      "l": [
+        237,
+        523
+      ],
+      "m": [
+        591,
+        871
+      ],
+      "p": [
+        965,
+        1160
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H59/T8.txt": [
+    {
+      "llll": [
+        108,
+        1138
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P59/T8.txt": [
+    {
+      "llll": [
+        172,
+        1716
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H59/T9.txt": [
+    {
+      "lelelele": [
+        148,
+        1621
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P59/T13.txt": [
+    {
+      "mamma": [
+        804,
+        2241
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H60/T7.txt": [
+    {
+      "n": [
+        87,
+        218
+      ],
+      "l": [
+        322,
+        410
+      ],
+      "o": [
+        502,
+        564
+      ],
+      "g": [
+        638,
+        752
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H60/T8.txt": [
+    {
+      "llll": [
+        188,
+        740
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H60/T9.txt": [
+    {
+      "lelelele": [
+        192,
+        987
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H61/T6.txt": [
+    {
+      "l": [
+        103,
+        208
+      ],
+      "m": [
+        352,
+        507
+      ],
+      "p": [
+        609,
+        696
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H61/T7.txt": [
+    {
+      "n": [
+        207,
+        320
+      ],
+      "l": [
+        418,
+        500
+      ],
+      "o": [
+        604,
+        672
+      ],
+      "g": [
+        800,
+        916
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P61/T7.txt": [
+    {
+      "n": [
+        386,
+        890
+      ],
+      "l": [
+        1376,
+        1599
+      ],
+      "o": [
+        1812,
+        1958
+      ],
+      "g": [
+        2433,
+        2737
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H61/T8.txt": [
+    {
+      "llll": [
+        113,
+        566
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P61/T8.txt": [
+    {
+      "llll": [
+        616,
+        2484
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H61/T9.txt": [
+    {
+      "lelelele": [
+        94,
+        883
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H62/T6.txt": [
+    {
+      "l": [
+        233,
+        300
+      ],
+      "m": [
+        431,
+        529
+      ],
+      "p": [
+        646,
+        723
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H62/T7.txt": [
+    {
+      "n": [
+        142,
+        227
+      ],
+      "l": [
+        319,
+        374
+      ],
+      "o": [
+        449,
+        499
+      ],
+      "g": [
+        633,
+        716
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H63/T6.txt": [
+    {
+      "l": [
+        92,
+        221
+      ],
+      "m": [
+        424,
+        620
+      ],
+      "p": [
+        908,
+        1172
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H63/T8.txt": [
+    {
+      "llll": [
+        74,
+        1058
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H63/T12.txt": [
+    {
+      "mamma": [
+        69,
+        1580
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H63/T13.txt": [
+    {
+      "mamma": [
+        80,
+        1645
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H64/T8.txt": [
+    {
+      "llll": [
+        1221,
+        1172
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H64/T9.txt": [
+    {
+      "lelelele": [
+        379,
+        1538
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P65/T6.txt": [
+    {
+      "l": [
+        94,
+        204
+      ],
+      "m": [
+        601,
+        761
+      ],
+      "p": [
+        962,
+        1092
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P65/T7.txt": [
+    {
+      "n": [
+        286,
+        389
+      ],
+      "l": [
+        666,
+        744
+      ],
+      "o": [
+        945,
+        1004
+      ],
+      "g": [
+        1188,
+        1305
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H65/T8.txt": [
+    {
+      "llll": [
+        385,
+        1491
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P65/T8.txt": [
+    {
+      "llll": [
+        271,
+        627
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H66/T6.txt": [
+    {
+      "l": [
+        491,
+        571
+      ],
+      "m": [
+        690,
+        810
+      ],
+      "p": [
+        892,
+        1000
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H66/T7.txt": [
+    {
+      "n": [
+        224,
+        285
+      ],
+      "l": [
+        454,
+        515
+      ],
+      "o": [
+        624,
+        684
+      ],
+      "g": [
+        764,
+        897
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P66/T7.txt": [
+    {
+      "n": [
+        217,
+        364
+      ],
+      "l": [
+        448,
+        549
+      ],
+      "o": [
+        664,
+        741
+      ],
+      "g": [
+        865,
+        1028
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H66/T8.txt": [
+    {
+      "llll": [
+        93,
+        385
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P66/T8.txt": [
+    {
+      "llll": [
+        668,
+        1362
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H66/T10.txt": [
+    {
+      "foglio": [
+        75,
+        500
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H66/T11.txt": [
+    {
+      "foglio": [
+        150,
+        590
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H66/T12.txt": [
+    {
+      "mamma": [
+        96,
+        518
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P66/T12.txt": [
+    {
+      "mamma": [
+        69,
+        1574
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H66/T13.txt": [
+    {
+      "mamma": [
+        116,
+        565
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H66/T18.txt": [
+    {
+      "sedia": [
+        93,
+        423
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P67/T6.txt": [
+    {
+      "l": [
+        100,
+        198
+      ],
+      "m": [
+        413,
+        583
+      ],
+      "p": [
+        642,
+        780
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H67/T8.txt": [
+    {
+      "llll": [
+        468,
+        1379
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P67/T8.txt": [
+    {
+      "llll": [
+        100,
+        908
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H67/T9.txt": [
+    {
+      "lelelele": [
+        320,
+        1521
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P67/T9.txt": [
+    {
+      "lelelele": [
+        80,
+        1203
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P67/T13.txt": [
+    {
+      "mamma": [
+        44,
+        695
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H68/T7.txt": [
+    {
+      "n": [
+        90,
+        199
+      ],
+      "l": [
+        373,
+        430
+      ],
+      "o": [
+        534,
+        577
+      ],
+      "g": [
+        664,
+        761
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P68/T8.txt": [
+    {
+      "llll": [
+        205,
+        863
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P68/T9.txt": [
+    {
+      "lelelele": [
+        220,
+        1424
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H68/T16.txt": [
+    {
+      "casa-reverse": [
+        106,
+        397
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H69/T9.txt": [
+    {
+      "lelelele": [
+        305,
+        1744
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H69/T13.txt": [
+    {
+      "mamma": [
+        736,
+        2097
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H70/T6.txt": [
+    {
+      "l": [
+        197,
+        300
+      ],
+      "m": [
+        443,
+        612
+      ],
+      "p": [
+        705,
+        881
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P70/T7.txt": [
+    {
+      "n": [
+        144,
+        274
+      ],
+      "l": [
+        423,
+        519
+      ],
+      "o": [
+        644,
+        735
+      ],
+      "g": [
+        880,
+        1034
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H70/T8.txt": [
+    {
+      "llll": [
+        186,
+        706
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P70/T8.txt": [
+    {
+      "llll": [
+        711,
+        1355
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H70/T9.txt": [
+    {
+      "lelelele": [
+        100,
+        711
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P70/T9.txt": [
+    {
+      "lelelele": [
+        137,
+        1195
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H71/T8.txt": [
+    {
+      "llll": [
+        108,
+        918
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P71/T8.txt": [
+    {
+      "llll": [
+        60,
+        600
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H71/T9.txt": [
+    {
+      "lelelele": [
+        102,
+        1306
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H72/T6.txt": [
+    {
+      "l": [
+        31,
+        153
+      ],
+      "m": [
+        185,
+        396
+      ],
+      "p": [
+        434,
+        573
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P72/T8.txt": [
+    {
+      "llll": [
+        1233,
+        1943
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H72/T9.txt": [
+    {
+      "lelelele": [
+        92,
+        840
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H72/T12.txt": [
+    {
+      "mamma": [
+        219,
+        1106
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H72/T13.txt": [
+    {
+      "mamma": [
+        92,
+        857
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H73/T6.txt": [
+    {
+      "l": [
+        853,
+        1002
+      ],
+      "m": [
+        1156,
+        1355
+      ],
+      "p": [
+        1506,
+        1693
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P73/T6.txt": [
+    {
+      "l": [
+        86,
+        169
+      ],
+      "m": [
+        272,
+        413
+      ],
+      "p": [
+        462,
+        571
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H73/T8.txt": [
+    {
+      "llll": [
+        78,
+        833
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P73/T8.txt": [
+    {
+      "llll": [
+        42,
+        427
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H73/T9.txt": [
+    {
+      "lelelele": [
+        557,
+        1770
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P73/T9.txt": [
+    {
+      "lelelele": [
+        104,
+        1099
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P73/T12.txt": [
+    {
+      "mamma": [
+        217,
+        959
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P74/T7.txt": [
+    {
+      "n": [
+        547,
+        747
+      ],
+      "l": [
+        1001,
+        1088
+      ],
+      "o": [
+        1158,
+        1241
+      ],
+      "g": [
+        1441,
+        1579
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H74/T8.txt": [
+    {
+      "llll": [
+        88,
+        1018
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P74/T8.txt": [
+    {
+      "llll": [
+        111,
+        723
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H74/T9.txt": [
+    {
+      "lelelele": [
+        115,
+        1341
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H75/T8.txt": [
+    {
+      "llll": [
+        158,
+        885
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H75/T9.txt": [
+    {
+      "lelelele": [
+        139,
+        1429
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H76/T6.txt": [
+    {
+      "l": [
+        135,
+        281
+      ],
+      "m": [
+        590,
+        779
+      ],
+      "p": [
+        985,
+        1156
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P76/T6.txt": [
+    {
+      "l": [
+        75,
+        176
+      ],
+      "m": [
+        247,
+        396
+      ],
+      "p": [
+        441,
+        601
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H76/T7.txt": [
+    {
+      "n": [
+        106,
+        236
+      ],
+      "l": [
+        387,
+        482
+      ],
+      "o": [
+        583,
+        675
+      ],
+      "g": [
+        763,
+        901
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P76/T7.txt": [
+    {
+      "n": [
+        130,
+        279
+      ],
+      "l": [
+        341,
+        435
+      ],
+      "o": [
+        573,
+        655
+      ],
+      "g": [
+        752,
+        906
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H76/T8.txt": [
+    {
+      "llll": [
+        71,
+        540
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P76/T8.txt": [
+    {
+      "llll": [
+        60,
+        943
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H76/T9.txt": [
+    {
+      "lelelele": [
+        5,
+        842
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H76/T12.txt": [
+    {
+      "mamma": [
+        121,
+        1005
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P76/T12.txt": [
+    {
+      "mamma": [
+        166,
+        930
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P76/T13.txt": [
+    {
+      "mamma": [
+        53,
+        755
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H77/T8.txt": [
+    {
+      "llll": [
+        84,
+        691
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P77/T8.txt": [
+    {
+      "llll": [
+        105,
+        1424
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P77/T9.txt": [
+    {
+      "lelelele": [
+        169,
+        1751
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P78/T6.txt": [
+    {
+      "l": [
+        127,
+        608
+      ],
+      "m": [
+        970,
+        1262
+      ],
+      "p": [
+        1433,
+        1636
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H78/T7.txt": [
+    {
+      "n": [
+        401,
+        690
+      ],
+      "l": [
+        1151,
+        1248
+      ],
+      "o": [
+        1493,
+        1569
+      ],
+      "g": [
+        1758,
+        1912
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P78/T13.txt": [
+    {
+      "mamma": [
+        289,
+        1661
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P79/T7.txt": [
+    {
+      "n": [
+        236,
+        541
+      ],
+      "l": [
+        788,
+        856
+      ],
+      "o": [
+        1025,
+        1096
+      ],
+      "g": [
+        1385,
+        1524
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H79/T8.txt": [
+    {
+      "llll": [
+        34,
+        571
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P79/T8.txt": [
+    {
+      "llll": [
+        500,
+        1021
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H79/T9.txt": [
+    {
+      "lelelele": [
+        33,
+        793
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P79/T9.txt": [
+    {
+      "lelelele": [
+        118,
+        1280
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H80/T6.txt": [
+    {
+      "l": [
+        403,
+        472
+      ],
+      "m": [
+        658,
+        817
+      ],
+      "p": [
+        905,
+        985
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P80/T6.txt": [
+    {
+      "l": [
+        172,
+        236
+      ],
+      "m": [
+        296,
+        377
+      ],
+      "p": [
+        430,
+        483
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H80/T7.txt": [
+    {
+      "n": [
+        138,
+        241
+      ],
+      "l": [
+        298,
+        364
+      ],
+      "o": [
+        441,
+        517
+      ],
+      "g": [
+        611,
+        711
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P80/T7.txt": [
+    {
+      "n": [
+        182,
+        228
+      ],
+      "l": [
+        359,
+        414
+      ],
+      "o": [
+        570,
+        603
+      ],
+      "g": [
+        751,
+        797
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P80/T8.txt": [
+    {
+      "llll": [
+        184,
+        450
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P80/T9.txt": [
+    {
+      "lelelele": [
+        314,
+        1067
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P80/T11.txt": [
+    {
+      "foglio": [
+        194,
+        514
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H81/T8.txt": [
+    {
+      "llll": [
+        72,
+        518
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H82/T7.txt": [
+    {
+      "n": [
+        200,
+        371
+      ],
+      "l": [
+        529,
+        628
+      ],
+      "o": [
+        725,
+        794
+      ],
+      "g": [
+        953,
+        1090
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P82/T8.txt": [
+    {
+      "llll": [
+        109,
+        676
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H82/T9.txt": [
+    {
+      "lelelele": [
+        282,
+        1333
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P83/T6.txt": [
+    {
+      "l": [
+        409,
+        537
+      ],
+      "m": [
+        646,
+        829
+      ],
+      "p": [
+        924,
+        1074
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H83/T8.txt": [
+    {
+      "llll": [
+        75,
+        964
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P83/T8.txt": [
+    {
+      "llll": [
+        94,
+        658
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H83/T9.txt": [
+    {
+      "lelelele": [
+        122,
+        1443
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P83/T9.txt": [
+    {
+      "lelelele": [
+        156,
+        1214
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/H84/T6.txt": [
+    {
+      "l": [
+        87,
+        272
+      ],
+      "m": [
+        379,
+        604
+      ],
+      "p": [
+        673,
+        902
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/H84/T8.txt": [
+    {
+      "llll": [
+        90,
+        1202
+      ]
+    },
+    "healthy"
+  ],
+  "DARWIN-RAW/P84/T8.txt": [
+    {
+      "llll": [
+        165,
+        1661
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P84/T9.txt": [
+    {
+      "lelelele": [
+        247,
+        3117
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P85/T6.txt": [
+    {
+      "l": [
+        109,
+        382
+      ],
+      "m": [
+        489,
+        861
+      ],
+      "p": [
+        1342,
+        1705
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P85/T8.txt": [
+    {
+      "llll": [
+        301,
+        1743
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P86/T7.txt": [
+    {
+      "n": [
+        175,
+        754
+      ],
+      "l": [
+        1011,
+        1138
+      ],
+      "o": [
+        1346,
+        1463
+      ],
+      "g": [
+        1848,
+        2082
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P86/T8.txt": [
+    {
+      "llll": [
+        196,
+        1598
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P87/T6.txt": [
+    {
+      "l": [
+        199,
+        327
+      ],
+      "m": [
+        538,
+        701
+      ],
+      "p": [
+        858,
+        1073
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P87/T7.txt": [
+    {
+      "n": [
+        382,
+        493
+      ],
+      "l": [
+        628,
+        707
+      ],
+      "o": [
+        814,
+        882
+      ],
+      "g": [
+        1099,
+        1223
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P87/T8.txt": [
+    {
+      "llll": [
+        127,
+        665
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P87/T9.txt": [
+    {
+      "lelelele": [
+        133,
+        1238
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P88/T8.txt": [
+    {
+      "llll": [
+        109,
+        1169
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P89/T7.txt": [
+    {
+      "n": [
+        115,
+        272
+      ],
+      "l": [
+        415,
+        530
+      ],
+      "o": [
+        619,
+        709
+      ],
+      "g": [
+        798,
+        921
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P89/T8.txt": [
+    {
+      "llll": [
+        77,
+        530
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P89/T9.txt": [
+    {
+      "lelelele": [
+        56,
+        769
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P89/T12.txt": [
+    {
+      "mamma": [
+        57,
+        806
+      ]
+    },
+    "alzheimer"
+  ],
+  "DARWIN-RAW/P89/T13.txt": [
+    {
+      "mamma": [
+        59,
+        774
+      ]
+    },
+    "alzheimer"
+  ]
+}
